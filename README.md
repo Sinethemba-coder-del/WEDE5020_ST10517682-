@@ -1,1 +1,3 @@
 # WEDE5020_ST10517682-
+Umbilo Car Wash and shisanyama is a Durban-based business that grew from a small roadside setup into a vibrant community hub combining professional vehicle valeting with authentic South African braai cuisine and entertainment.
+To overcome its lack of a centralized site and solve customer confusion regarding pricing, hours and booking the business plans to launch an official, mobile-first website built on modern tech (HTML/CSS/Java Script, Linux hosting). Designed with a vibrant flame-and-foam colour scheme, the platform will boost visibility and streamline reservations by featuring interactive food menus. tiered wash package bookings, map directions and direct contact options.
