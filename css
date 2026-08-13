@@ -1,0 +1,13 @@
+Color Palette (:root variables):
+​Primary Orange (#E65100): Headers, buttons, section borders, and braai theme accents.
+​Foam Blue (#0288D1): Car wash cards, bubbles, and section highlights.
+​Dark Charcoal (#1A1A1A & #2B2B2B): Dark theme body and card backgrounds.
+​Gold (#FFD700): Prices, totals, and honk effects.
+​Layout & Structure:
+​CSS Grid (grid-template-columns: repeat(auto-fit, ...)): Responsive card layouts for packages, menu, and contact details that adapt to any screen size.
+​Flexbox: Clean centering for header content, sticky navigation, and interactive option rows.
+​Sticky Navigation (position: sticky): Top navigation bar stays visible as you scroll.
+​Animations & Visuals:
+​Circular Image Styling: Round profile image with a glowing white border and scale-up hover transition (transform: scale(1.08)).
+​Floating Bubbles Keyframes (@keyframes rise): Smoothly animates soap bubbles rising from the bottom to the top of the viewport.
+​Car Drive-By Keyframes (@keyframes honkVibrate): Vibrates the car visual when the horn triggers.
